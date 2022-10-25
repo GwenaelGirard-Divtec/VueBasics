@@ -1,5 +1,7 @@
 <template>
-  <router-view/>
+    <section class="accueil">
+        <!-- ... -->
+    </section>
 </template>
 
 
@@ -7,7 +9,7 @@
 //Imports
 //...
 export default {
-    name: "App",
+    name: "PageAccueil",
     components: {},
 
     //...
@@ -15,6 +17,6 @@ export default {
 </script>
 
 
-<style lang="scss">
+<style lang="scss" scoped>
 //...
 </style>
