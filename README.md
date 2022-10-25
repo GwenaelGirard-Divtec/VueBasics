@@ -4,13 +4,16 @@ Projet vide de base pour vos projet Vue.js
 ## Configurations de bases
 Le projet vue à été créer avec les configurations suivantes : 
 
-### Plugins
+### Plugins (VueVLI)
 * Babel
 * TypeScript
 * Router
 * Vuex
 * Css Pre-processors
   * Sass / Scss (with dart-sass)
+
+### Plugins (npm)
+* axios
 
 ### Version de vue
 * 3.x
