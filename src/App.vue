@@ -1,7 +1,6 @@
 <template>
-  <router-view/>
+    <router-view />
 </template>
-
 
 <script lang="ts">
 //Imports
@@ -14,7 +13,8 @@ export default {
 };
 </script>
 
-
 <style lang="scss">
-//...
+* {
+    font-family: "Roboto", sans-serif;
+}
 </style>
