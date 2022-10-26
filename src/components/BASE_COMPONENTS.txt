@@ -1,0 +1,20 @@
+<template>
+
+</template>
+
+
+<script lang="ts">
+//Imports
+//...
+export default {
+    name: "NAME",
+    components: {},
+
+    //...
+};
+</script>
+
+
+<style lang="scss">
+//...
+</style>

@@ -1,0 +1,22 @@
+<template>
+    <section class="[name]">
+        <!-- ... -->
+    </section>
+</template>
+
+
+<script lang="ts">
+//Imports
+//...
+export default {
+    name: "[Name]",
+    components: {},
+
+    //...
+};
+</script>
+
+
+<style lang="scss" scoped>
+//...
+</style>

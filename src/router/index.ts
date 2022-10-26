@@ -8,6 +8,12 @@ const routes: Array<RouteRecordRaw> = [
         component: PageAccueil,
     },
 
+      {
+        path: '/test',
+        name: 'Test',
+        component: () => import(/* webpackChunkName: "Test" */ '../views/PageTest.vue')
+      }
+
     // AJOUT D'UNE ROUTE DE MANIÈRE LÉGÈRE
     //   {
     //     path: '/[ROUTE]]',
